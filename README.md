@@ -17,8 +17,7 @@ A switch-case menu is shown repeatedly until the user chooses to exit:
 
 1. Show Customer Records
 2. Add Customer Record
-...
-12. Exit
+
     
 3. User Selects an Operation
 The user enters a numeric option (1–12).
